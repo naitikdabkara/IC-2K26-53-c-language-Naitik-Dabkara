@@ -1,4 +1,4 @@
-wrong code
+//wrong code
 #include <stdio.h>
 
 int main()
@@ -7,7 +7,7 @@ int main()
     printf("%d", A);
     return 0;
 }
-correct code
+//correct code
 #include <stdio.h>
 
 int main()
